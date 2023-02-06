@@ -54,6 +54,26 @@
         },
       }}
     />
+    <FeatureBox
+      feature={{
+        title: "Host a Gitpod Community meet-up",
+        paragraph:
+          "Gitpod Community meet-ups are organized by passionate community members in their local area. They are an opportunity to connect with others and learn and share the best Gitpod practices and knowledge.",
+        moreButton: {
+          text: "Hosting guidelines",
+          href: "https://www.notion.so/gitpod/Hosting-a-Gitpod-Community-meet-up-77bdde81c5b04d80b93e425ebdd568ef",
+        },
+        ctaButton: {
+          text: "View playlist",
+          href: "https://www.youtube.com/playlist?list=PL3TSF5whlprU4vRoYBK6-QhFAbwAsoKmu",
+        },
+        image: {
+          src: "/images/community/meet-up.png",
+          alt: "Gitpod community meet-up",
+          classNames: "rounded-2xl",
+        },
+      }}
+    />
   </FeatureBoxes>
   <div class="flex mt-x-small lg:mt-x-small max-w-7xl mx-auto justify-center">
     <PostPreview
