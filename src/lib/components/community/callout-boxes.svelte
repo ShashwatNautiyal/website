@@ -68,7 +68,7 @@
           href: "https://www.youtube.com/playlist?list=PL3TSF5whlprU4vRoYBK6-QhFAbwAsoKmu",
         },
         image: {
-          src: "/images/community/meet-up.png",
+          src: "/images/community/meet-up.webp",
           alt: "Gitpod community meet-up",
           classNames: "rounded-2xl",
         },
